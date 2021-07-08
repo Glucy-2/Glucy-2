@@ -1,4 +1,5 @@
 ### Hi there 👋
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=MAX-XiaoKui.MAX-XiaoKui)
 [![GitHub-Stats](https://github-readme-stats.vercel.app/api?username=MAX-XiaoKui&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MAX-XiaoKui/MAX-XiaoKui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
