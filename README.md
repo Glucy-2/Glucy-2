@@ -1,11 +1,7 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=MAX-XiaoKui.MAX-XiaoKui)  
-[![GitHub-Stats](https://github-readme-stats.vercel.app/api?username=MAX-XiaoKui&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Glucy-2.Glucy-2)  
+[![GitHub-Stats](https://github-readme-stats.vercel.app/api?username=Glucy-2&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
-**MAX-XiaoKui/MAX-XiaoKui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
